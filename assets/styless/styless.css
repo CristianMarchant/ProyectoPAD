@@ -1,0 +1,14 @@
+html *{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.custom-navbar{
+    background-color: #FFF159;
+}
+body{
+    background-color: #EBEBEB;
+}
+.info{
+    background-color: #FFFFFF;
+}
